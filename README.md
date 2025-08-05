@@ -4,7 +4,7 @@
 
 ## Overview
 
-This guide walks you through the setup of talking to gpt-oss using LiveKit Agents for Python. In less than 10 minutes, you'll have a voice assistant that you can speak to in your terminal, browser, telephone, or native app.
+This guide walks you through the setup of talking to gpt-oss using LiveKit Agents for Python. In less than 2 minutes, you'll have a voice assistant that you can speak to in your terminal, browser, telephone, or native app.
 
 ## Requirements
 
