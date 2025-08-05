@@ -41,8 +41,6 @@ Create a file named `.env` and add your LiveKit credentials along with the neces
 
 **STT-LLM-TTS pipeline**:
 
-** Filename: `.env`**
-
 ```shell
 ASSEMBLYAI_API_KEY=<Your Deepgram API Key>
 GROQ_API_KEY=<Your OpenAI API Key>
@@ -55,7 +53,7 @@ LIVEKIT_URL=%{wsURL}%
 
 ### Agent code
 
-Use the file in this repo. 
+Use the `agent.py` file in this repo. 
 
 ## Download model files
 
@@ -76,8 +74,6 @@ python agent.py console
 ```
 
 Your agent speaks to you in the terminal, and you can speak to it as well.
-
-![Screenshot of the CLI console mode.](/images/agents/start/cli-console.png)
 
 ## Connect to playground
 
