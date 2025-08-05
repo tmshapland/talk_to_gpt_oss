@@ -57,7 +57,7 @@ Use the `agent.py` file in this repo.
 
 ## Download model files
 
-To use the `turn-detector`, `silero`, or `noise-cancellation` plugins, you first need to download the model files:
+You first need to download the model files for the `turn-detector`, `silero`, or `noise-cancellation` plugins:
 
 ```shell
 python agent.py download-files
@@ -74,6 +74,8 @@ python agent.py console
 ```
 
 Your agent speaks to you in the terminal, and you can speak to it as well.
+
+
 
 ## Connect to playground
 
